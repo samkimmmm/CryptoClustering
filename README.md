@@ -30,7 +30,7 @@ Does it differ from the best K value found using the original data?
 <img width="1151" alt="Screenshot 2023-12-19 at 3 18 06 PM" src="https://github.com/samkimmmm/CryptoClustering/assets/135805393/d56070f0-9bea-4b69-85a3-8e362f8b986d">
 
 # Analysis
-####After visually analyzing the cluster analysis results, what is the impact of using fewer features to cluster the data using K-Means?
+#### After visually analyzing the cluster analysis results, what is the impact of using fewer features to cluster the data using K-Means?
 
   * **Answer:** Although the Elbow Data shows that the optimal value for k remains at 4, the clusters for each individual dataset proves to minimize the scatter of clusters
 
