@@ -32,5 +32,4 @@ Does it differ from the best K value found using the original data?
 # Analysis
 #### After visually analyzing the cluster analysis results, what is the impact of using fewer features to cluster the data using K-Means?
 
-  * **Answer:** Although the Elbow Data shows that the optimal value for k remains at 4, the clusters for each individual dataset proves to minimize the scatter of clusters
-
+  * **Answer:** Although the Elbow Data shows that the optimal value for k remains at 4, the clusters for each individual dataset proves to minimize the scatter of clusters.
