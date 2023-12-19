@@ -13,7 +13,7 @@ A Dataframe with the "coin_id" set as the index was created once the "StandardSc
 
 ## Utilizing the elbow method, the best value for K was found by creating an empty list to store the inertia values. The results were then plotted on an hvplot.
 <img width="1266" alt="Screenshot 2023-12-19 at 3 06 51 PM" src="https://github.com/samkimmmm/CryptoClustering/assets/135805393/cdc46970-dd1a-481f-b98b-4a2926048c9c">
-* What is the best value for K? 4
+  * What is the best value for K? 4
 
 ## Clusters were then predicted to cluster the cryptocurrencies into groups. The results were then plotted on a scatter plot with the x-axis set to "PC1" and the y-axis set to "PC2".
 <img width="1232" alt="Screenshot 2023-12-19 at 3 09 40 PM" src="https://github.com/samkimmmm/CryptoClustering/assets/135805393/82a1d807-6b21-4ce0-8e91-b61d3cb8ee2b">
@@ -23,7 +23,7 @@ A Dataframe with the "coin_id" set as the index was created once the "StandardSc
 
 ## Using the elbow method on the PCA data, the best value for K was found.
 <img width="1264" alt="Screenshot 2023-12-19 at 3 12 45 PM" src="https://github.com/samkimmmm/CryptoClustering/assets/135805393/8a0fbe99-9d5f-497d-a999-33f791474852">
-* What is the best value for K when using the PCA data?
-* Does it differ from the best K value found using the original data?
+  * What is the best value for K when using the PCA data?
+  * Does it differ from the best K value found using the original data?
 
 ## Clusters were created using the PCA data
